@@ -1,4 +1,9 @@
+
+
 # tiktak
+
+"Your task is to ask Gemini 1.5 flash to code a tic-tac-toe game in python using the outline template provided in this repo. which will be evaluated using unit tests. Copy and paste in the program and don’t change anything."
+
 
 **Rotating Ultimate Tic-Tac-Toe** is a wild twist on the classic “Ultimate” (or “Super”) Tic-Tac-Toe. Here’s how it works:
 
